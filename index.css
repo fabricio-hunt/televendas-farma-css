@@ -1,3 +1,5 @@
+
+/* televendas - Farma Backup*/ 
 <style>
     body.bemol-farma #middle .wd-browsing-breadcrumbs {
         display: none !important;
@@ -12,6 +14,7 @@
             max-width: 100%;
         }
     }
+
 
     main.vendedores-online {
         max-width: 1330px;
